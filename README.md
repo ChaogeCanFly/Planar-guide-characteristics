@@ -4,4 +4,4 @@ The goal of the assignment is to :
 *	computes the number of modes, effective index, etc.
 
 ## Code
-You can find the implementation [here]()
+You can find the implementation [here](https://github.com/TheSirC/Planar-guide-characteristics/blob/octave/Projet.m)
